@@ -1,4 +1,4 @@
-## Hi there 👋
+## What's up, my nerds? 🤓
 
 Learning in a world of AI. Check out [my most recent app](https://github.com/CurtisJester/SmartReflect) deployment, where I learned about cloud deployments, CI/CD, and how
 to use a remote PostgreSQL database. 
